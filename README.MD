@@ -9,4 +9,4 @@ Sankey adalah pustaka Python berbasis Matplotlib yang dirancang untuk mempermuda
 - Pengurutan Cerdas: Mendukung pengurutan node secara ascending, descending, atau sesuai urutan asli data.
 - Visualisasi Bersih: Dilengkapi fitur anti-tabrakan label agar teks tetap terbaca meskipun diagram sangat padat.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deddy7288/[sankey-diagram]/blob/main/sankey-diagram.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deddy7288/sankey-diagram/blob/main/sankey-diagram.ipynb)
